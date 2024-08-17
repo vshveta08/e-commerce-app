@@ -1,3 +1,3 @@
-const ENDPOINT = "http://localhost:3000/"
+const ENDPOINT = "https://e-commerce-backend-ajc8.onrender.com/"
 
 export {ENDPOINT}
