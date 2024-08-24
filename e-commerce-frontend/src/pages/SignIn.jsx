@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { useForm } from "react-hook-form";
 import { ENDPOINT } from "../config/endpoint";
 import { useNavigate } from "react-router-dom";
